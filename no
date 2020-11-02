@@ -1,0 +1,23 @@
+[33mcommit c43a29f40e5b7a47836b956869fd423bf36718b1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mlanding-page-implementation[m[33m)[m
+Author: Karimah Swan <karimahswan@gmail.com>
+Date:   Sun Nov 1 11:26:10 2020 -0500
+
+    Edited html, javascript and css file
+
+[33mcommit 2f64c0e3a2a61952c043d393434775a84bf23fd9[m[33m ([m[1;31morigin/landing-page-implementation[m[33m)[m
+Author: Karimah Swan <karimahswan@gmail.com>
+Date:   Sun Nov 1 09:33:18 2020 -0500
+
+    Added initial starter files
+
+[33mcommit e29dde54fe3b99003f55f9fe2eafe706378f853e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Karimah Swan <karimahswan@gmail.com>
+Date:   Sun Nov 1 09:23:34 2020 -0500
+
+    Edited README.md
+
+[33mcommit fe268ab0b0d9c140e2f9a651a36b981b6db32018[m
+Author: KarimahSwan <71859529+KarimahSwan@users.noreply.github.com>
+Date:   Sun Nov 1 09:14:49 2020 -0500
+
+    Initial commit
